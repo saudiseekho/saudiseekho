@@ -4,7 +4,7 @@ const SITE_CONFIG = {
   productName: "Speak Najdi Arabic in 60 Days",
   siteUrl: "https://saudiseekho.com",
   // >>> PUT YOUR DEPLOYED WORKER URL HERE (no trailing slash) <<<
-  apiBase: "https://saudiseekho-api.YOUR-SUBDOMAIN.workers.dev",
+  apiBase: "https://saudiseekho-api.jmg4gsm5jw.workers.dev",
   currency: "INR",
   regularPrice: 999,          // display only; the Worker decides the real amount
   launchPrice: 499,           // display only
