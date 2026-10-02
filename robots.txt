@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /payment-success.html
+Disallow: /access.html
+Disallow: /download.html
+Sitemap: https://saudiseekho.com/sitemap.xml
